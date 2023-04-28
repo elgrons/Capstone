@@ -1,8 +1,15 @@
-Name of Student: Eliot Gronstal 4.28.23
+Name of Student: 
+
+  Eliot Gronstal 4.28.23
 
 Name of Project: 
 
+  Tip Tracker
+
 Project's Purpose or Goal: (What will it do for users?)
+
+  
+
 
 List the absolute minimum features the project requires to meet this purpose or goal:
 
