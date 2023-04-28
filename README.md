@@ -2,10 +2,10 @@
 
 #### By Eliot Gronstal 4.28.23
 
-<!-- #### _{Brief description of application}_ -->
+#### This MVC app will allow a user who works in an industry whose wages includes gratuity to track their income.
 
-<!-- ### __Component Diagaram__
-![Component Diagaram](./src/img/big_picture.png) -->
+### __Component Diagaram (subject to change)__
+![Component Diagaram](./src/img/React Component Mock up 4/28.png)
 
 <!-- ### _Wifreframe of Component, Data Organization, Mock Up, __
 ![Big Picture](./src/img/big_picture.png) -->

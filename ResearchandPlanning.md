@@ -12,5 +12,8 @@
 
 * 1:00p amassed a pretty solid amount of tutorial videos to help me streamline my overall project stucutre file build and components. will begin viewing and deciding what is/isn't helpful or able to contribute to my vision for my mvp/finished project.
 
+* 1:45 take a break from tutorials to partially update capstone-proposal.md as the project starts to form a little bit more in my mind. pushing the partially complete project proposal and back to internet tutorials for research purposes.
+
+
 
 #### Next Date:
