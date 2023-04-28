@@ -14,6 +14,9 @@
 
 * 1:45 take a break from tutorials to partially update capstone-proposal.md as the project starts to form a little bit more in my mind. pushing the partially complete project proposal and back to internet tutorials for research purposes.
 
+* 2:23 update README with a screen shot from figam project file with "soft" component mock up for React front end, still diving into some research to see if it'll be usable, but slowly starting to put pieces together in my mind and on "paper". :) returning to tutorial-style research vidoes and reading.
+
+* 
 
 
 #### Next Date:
