@@ -16,7 +16,7 @@
 
 * 2:23 update README with a screen shot from figam project file with "soft" component mock up for React front end, still diving into some research to see if it'll be usable, but slowly starting to put pieces together in my mind and on "paper". :) returning to tutorial-style research vidoes and reading.
 
-* 
+* 4:00 WIP research and gathering inspo for styling, content, and layout: still working on research and updating figma.
 
 
 #### Next Date:
