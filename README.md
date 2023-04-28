@@ -2,7 +2,7 @@
 
 #### By Eliot Gronstal 4.28.23
 
-#### _{Brief description of application}_
+<!-- #### _{Brief description of application}_ -->
 
 <!-- ### __Component Diagaram__
 ![Component Diagaram](./src/img/big_picture.png) -->
@@ -10,17 +10,18 @@
 <!-- ### _Wifreframe of Component, Data Organization, Mock Up, __
 ![Big Picture](./src/img/big_picture.png) -->
 
-## Technologies Used
+<!-- ## Technologies Used
 
 * _React_
 * _JSX_
 * _C#_
+* _Axios_
 * _MYSQL_
 * _HTML/CSS_
 * _JavaScript_
-* _Node_
+* _Node_ -->
 
-## Description
+<!-- ## Description
 
 _{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
@@ -36,13 +37,13 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 <!-- add notes about appsettings.json and database-->
 
-## Known Bugs
+<!-- ## Known Bugs
 
 * _Any known issues_
 
-* Please reach out with any questions or concerns to [eliot.lauren@gmail.com](eliot.lauren@gmail.com)
+* Please reach out with any questions or concerns to [eliot.lauren@gmail.com](eliot.lauren@gmail.com) -->
 
-## License
+<!-- ## License -->
 
 MIT License
 
@@ -52,4 +53,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->

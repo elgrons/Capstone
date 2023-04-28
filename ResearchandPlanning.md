@@ -8,3 +8,5 @@
 * 10:30 building out a react component diagram and schema diagram in figma to try to organize my project structure and see if it helps refine my needs for above research findings.
 
 *  11:40 distracted away from building out my component becuase I think it's getting ahead of myself a little bit. File folder/project strucutre still needs some refining. Back to research and compiling a list of videos to watch after lunch. 
+
+* 
