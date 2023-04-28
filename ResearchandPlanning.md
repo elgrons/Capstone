@@ -18,5 +18,7 @@
 
 * 4:00 WIP research and gathering inspo for styling, content, and layout: still working on research and updating figma.
 
+* 4:50 solid day of research and project set up. looking forward to diving into the code and putting it all together. hopefully without too many big pivots!
+
 
 #### Next Date:

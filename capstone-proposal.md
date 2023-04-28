@@ -52,4 +52,4 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 
 Is there anything else you'd like your instructor to know?
 
-  I’ll be curious to see how I might adapt any project planning over the course of the next few weeks as I learn more about React. I'm eager to know more about utilizing hooks and Firebase to see if they might be helpful inclusions for this project idea.
+  I’ll be curious to see how I might adapt any project planning over the course of the next few weeks as I learn more about React. I'm eager to know more about utilizing hooks and Firebase to see if they might be helpful inclusions for this project idea. I'm interested in getting feedback about my project assumptions of using an API to move SQL database data from .NET backend to React frontend. 
