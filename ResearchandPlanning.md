@@ -29,5 +29,7 @@
 
 * 9:07a Continuing planning and organizing in Figma now that I have a name and a general idea for which frameworks I'm going to use and in what way.
 
-* 9:47 WIP: planning API endpoints, and how to utilize authentication and jwt.
+* 9:47a WIP: planning API endpoints, and how to utilize authentication and jwt.
+
+* 10:35a Begin work on API!
 
