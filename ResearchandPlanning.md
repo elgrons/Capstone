@@ -41,4 +41,5 @@
 
 * 2:20 Softly considering switching to Firebase/Firestore by EOD if I can't form a plan of attack for ASP.NET authorization/authentication.
 
+* 3:51p WIP: thinking of changing to Firestore/Firebase for auth.
 
