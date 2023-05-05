@@ -39,4 +39,6 @@
 
 * 1:59 Got diverted from intial EF Migrations because I'm actully not sure how to set up authentication/authorization and whether or not I need a user class.. Hesistant to do an initial build without a bit further research. Tutorials collecting then watching happening now for a bit.
 
+* 2:20 Softly considering switching to Firebase/Firestore by EOD if I can't form a plan of attack for ASP.NET authorization/authentication.
+
 
