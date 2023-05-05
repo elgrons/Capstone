@@ -21,4 +21,7 @@
 * 4:50 solid day of research and project set up. looking forward to diving into the code and putting it all together. hopefully without too many big pivots!
 
 
-#### Next Date:
+#### Friday 5/5:
+
+* 8:00a Starting day off with finishing planning and considering either starting to get right into the project or attempting a practice proj to make sure I can get everything connected between C#/SQL API and React without all the bells and whistles.
+
