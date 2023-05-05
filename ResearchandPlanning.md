@@ -26,3 +26,8 @@
 * 8:00a Starting day off with finishing planning and considering either starting to get right into the project or attempting a practice proj to make sure I can get everything connected between C#/SQL API and React without all the bells and whistles.
 
 * 8:45a Stuck on a name. Impossible to start creating MVP app without it! I don't want to have to re-start my in-app naming conventions after the fact. Why is landing a usable title feel like such a hurdle? Market research happening currently.
+
+* 9:07a Continuing planning and organizing in Figma now that I have a name and a general idea for which frameworks I'm going to use and in what way.
+
+* 9:47 WIP: planning API endpoints, and how to utilize authentication and jwt.
+
