@@ -35,5 +35,7 @@
 
 * 11:48a WIP: Buildout of .NET Api almost ready to do my first EF Migration. https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
 
+* 1:08p Back from lunch and ready to start my database migrations!
+
 
 
