@@ -31,5 +31,5 @@
 
 * 9:47a WIP: planning API endpoints, and how to utilize authentication and jwt.
 
-* 10:35a Begin work on API!
+* 10:35a Begin work on API! https://github.com/elgrons/GratShiftSaveApi.Solution
 
