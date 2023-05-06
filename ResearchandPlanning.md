@@ -43,3 +43,5 @@
 
 * 3:51p WIP: thinking of changing to Firestore/Firebase for auth.
 
+* 5pm End of day- thinking I might make a firebase backup database this weekend in case I can't get SQL/.NET Core API to work how I like.
+
