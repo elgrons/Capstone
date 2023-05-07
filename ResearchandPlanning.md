@@ -47,4 +47,6 @@
 
 Sunday 5/7
 
-* 1:20p Trying to get this API in working(ish) order so that I can start on front end by or before Friday.
+* 1:20p Trying to get this API in working(ish) order so that I can start on front end by or before Friday. Working on how to correctly format seed data with EF Core using DateTime.
+
+* 2:19p Was following a JWT token/authentication YouTube tutorial and remembered that I never double checked the Lesson Plan's further exploration material back from Week 6 of C#. Pausing my tutorial and going back to reference the Lesson Plan material.
