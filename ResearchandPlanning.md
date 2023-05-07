@@ -45,3 +45,6 @@
 
 * 5pm End of day- thinking I might make a firebase backup database this weekend in case I can't get SQL/.NET Core API to work how I like.
 
+Sunday 5/7
+
+* 1:20p Trying to get this API in working(ish) order so that I can start on front end by or before Friday.
