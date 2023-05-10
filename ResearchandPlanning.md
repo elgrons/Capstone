@@ -52,3 +52,8 @@ Sunday 5/7
 * 2:19p Was following a JWT token/authentication YouTube tutorial and remembered that I never double checked the Lesson Plan's further exploration material back from Week 6 of C#. Pausing my tutorial and going back to reference the Lesson Plan material.
 
 * 3:00 Following tutorials to attempt to get JWT Tokens to work with authentication, but it seems like most every example utilizes Visual Studio and there is a significant "under the hood"-level of stuff happening with connection to SQL database. Considering switching to Firebase by Wednesday if I can't get this nailed down.
+
+#### Wednesday 5/10:
+
+* 4:00pm Successfully deployed My .NET Api to Azure and am ready to start my React front end! 
+https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
