@@ -62,3 +62,4 @@ https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
 
 * 7:55a Finishing up my README for my Api, then will start mocking up my component diagrams and should begin making an new npx-create-react-app by EOD if all goes to plan.
 
+* 10:03a Time flies! Still working on README, documenting endpoints and making a Postman screen shot-style documentation. Hit a snag with login/register and need to go back and rework the fact that every user needs to be registered as Admin for access to GratShift api. I fixed it locally, but need to update my Azure domain so both instances of urls are in working order.
