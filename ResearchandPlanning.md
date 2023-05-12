@@ -57,3 +57,8 @@ Sunday 5/7
 
 * 4:00pm Successfully deployed My .NET Api to Azure and am ready to start my React front end! 
 https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
+
+#### Friday 5/12:
+
+* 7:55a Finishing up my README for my Api, then will start mocking up my component diagrams and should begin making an new npx-create-react-app by EOD if all goes to plan.
+
