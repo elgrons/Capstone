@@ -70,3 +70,5 @@ https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
 * 12:36 Thinking that this might end up being a stretch goal, just so I can finish documenting this README and get to my front end.
 
 * 12:56 Worked through lunch to attempt to recover Put functionality from the Api. Had to remover UserId variable from GratShift.cs in Models. Back to square one that I was at this morning. Will do a little more research about how to secure a users data so only they have access to it, but will consider this a stretch goal if time gets away from me. I want to make sure I'm finishing the README and starting my front end by EOD.
+
+* 2:09 Thinking again I'm maybe overthinking this. I may only need a foreign key that correspondes GratShift input with a User Id. Work in progress!
