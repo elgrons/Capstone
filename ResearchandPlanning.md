@@ -74,3 +74,5 @@ https://github.com/elgrons/GratShiftSaveApi.Solution/tree/main/GratShiftSaveApi
 * 2:09 Thinking again I'm maybe overthinking this. I may only need a foreign key that correspondes GratShift input with a User Id. Work in progress!
 
 * 2:42 Try two on re-adding UserId to GratShift.cs in Models as an attempt to get Authentication and UserId associated with Api Get and Post requests.
+
+* 4:58 Holy wow terrible commits today, but I have BEEN IN THE ZONE trying to get this auto populated UserId to correspond with Put and Get requests from API and Database. Probs deployed Azure site too quickly, been having to work off localhost after I realized some of my updates weren't actually getting to the domain. I'll figure that out this weekend... 
